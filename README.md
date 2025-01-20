@@ -3,7 +3,7 @@
 
 This is a lightweight WhatsApp clone built using Node.js and React, designed for anonymous real-time chat. The app does not use any database or store any user credentials, ensuring a privacy-focused chatting experience. It's mobile responsive, providing seamless chat across devices.
 
-
+<img src="./whatsapp-web-.png" />
 
 
 ## Features
